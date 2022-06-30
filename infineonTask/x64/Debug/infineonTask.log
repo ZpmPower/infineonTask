@@ -1,0 +1,6 @@
+﻿  calculations.cpp
+  main.cpp
+  Generating Code...
+main.obj : error LNK2005: "float __cdecl calculate_mean(int * const,unsigned __int64)" (?calculate_mean@@YAMQEAH_K@Z) already defined in calculations.obj
+main.obj : error LNK2005: "int __cdecl calculate_sum(int * const,unsigned __int64)" (?calculate_sum@@YAHQEAH_K@Z) already defined in calculations.obj
+C:\Users\ZpmPower\source\repos\infineonTask\x64\Debug\infineonTask.exe : fatal error LNK1169: one or more multiply defined symbols found
